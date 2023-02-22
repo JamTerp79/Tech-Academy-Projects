@@ -1,0 +1,2 @@
+This was very interesting and educational.  I will be studying
+git and github in greater detail.

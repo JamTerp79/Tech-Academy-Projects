@@ -11,7 +11,7 @@ h1{
 .container{
     width: 450px;
     height: 450px;
-    background-color: faebd7;
+    background-color: #faebd7;
     border: 2px solid black;
     border-radius: 5%;
 }
@@ -27,7 +27,16 @@ h1{
     margin: 5px;
     border:1px solid black;
     border-radius: 25%;
-    cursor: pointer;
-
-    
+    cursor: pointer;  
+}
+/*------------------------------------------------------------------------------
+                SELECT ALL SQUARES PARAGRAPHS IN THE ARRAY
+------------------------------------------------------------------------------*/
+.squares:nth-child(-n+4) p{
+    font-family: "Helvetica Neue",Arial, Helvetica, sans-serif;
+    font-size: 1.5cm;
+    font-weight: 200;
+    text-align: center;
+    margin: 0;
+    text-shadow: 2px 1px 4px rgba(0,0,0,0.8);
 }

@@ -15,7 +15,7 @@ h1 {
     font-family: "Trebuchet MS", Optima; /* Sets the font family of all h1 headings */
     text-align: center; /* Centering all h1 elements */
     margin-top: 3%; /* Adds a small margin above h1 elements */
-    color: #1a1a1a; 
+    color: #4aa760; 
 }
 
 /* Heading 1 element hover effect */
@@ -27,7 +27,7 @@ h1:hover {
 
 /* Styling for portfolio title text */
 .white-text {
-    color: #fff; /* This is used to change the color of the portfolio title text */
+    color: #266434; /* This is used to change the color of the portfolio title text */
 }
 
 /* Paragraph elements */
@@ -35,7 +35,7 @@ p {
     font-family: Perpetua, Rockwell Extra Bold;
     text-align: justify; /* Justify text within paragraph elements */
     letter-spacing: 1px; /* This expands the text slightly */
-    font-size: 20px;
+    font-size: 18px;
     padding-left: 20px; /* Adds padding to the left of the paragraph element */
     padding-right: 20px; /* Adds padding to the right of the paragraph element */
 }

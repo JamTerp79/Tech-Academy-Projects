@@ -1,3 +1,8 @@
+/*-----Title Adjustments-----*/
+.my-title   {
+    font-family: URW Chancery L, cursive, fantasy;
+}
+
 /***** GENERAL STYLING *****/
 /* Body */
 body {
